@@ -1,0 +1,11 @@
+nohup: ignoring input
+INFO:     Started server process [6957]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8011 (Press CTRL+C to quit)
+INFO:     127.0.0.1:60212 - "POST / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:60222 - "POST / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48626 - "POST / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45724 - "POST /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45734 - "POST /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33296 - "POST /ask HTTP/1.1" 200 OK
